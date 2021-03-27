@@ -18,7 +18,8 @@ html {
 }
 
 head {
-    height: 90px;
+    height: 64px;
+    padding-bottom: 20px;
 }
 
 #banner {
